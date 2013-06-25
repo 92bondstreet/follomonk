@@ -86,7 +86,7 @@ class FolloMonk{
 		
 	// file dump to log
 	private  $enable_log;
-	private  $log_file_name = "rapummies.log";
+	private  $log_file_name = "follomonk.log";
 	private  $log_file;
 	
 	
